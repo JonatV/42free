@@ -10,6 +10,7 @@ declare -A campus_dict
 campus_dict=(
 ["42 Vienna"]="5 30"
 ["42 Berlin"]="5 30"
+["19 Brussels"]="5 15"
 ["Other"]="0 0"
 )
 
